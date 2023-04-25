@@ -1,0 +1,7 @@
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse.
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse..dll
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse..deps.json
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse..runtimeconfig.json
+/Users/aaronfrazier/Projects/AlpineSkiHouse./AlpineSkiHouse./obj/Release/net7.0/PubTmp/Out/AlpineSkiHouse..pdb
